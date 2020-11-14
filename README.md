@@ -1,4 +1,6 @@
+
 # Final Project
+## Male vs Female over the years
 ## Motivation and problem statement: 
 
 Gender Gap is a topic that has been debated for several years. It is potentially very interesting to study the growth or reduction of gender gap over the years. The best way to quantify this is by exploring various areas like health, education, economy and politics. It would also be interesting to see if the world average of these parameters follows the same trends as that of US. 
