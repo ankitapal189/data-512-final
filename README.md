@@ -52,12 +52,15 @@ The 4 areas mentioned are:
  
   The indicators taken into consideration can be found [here](https://tcdata360.worldbank.org/indicators/a07f867b?country=BRA&indicator=28159&viz=line_chart&years=2006,2018#related-link)
   The three concepts taken into consideration: 
-  1. Participation gap: Captures difference between women and men in labour force participation rates.
-  2. Remuneration gap : Captures difference between women and men in terms of renumeration for same work.
-  3. Advancement gap : Captures ratio of women to men among legislators, senior officials and managers, and the ratio of women to men among technical and professional workers.
+      1. Participation gap: Captures difference between women and men in labour force participation rates.
+      2. Remuneration gap : Captures difference between women and men in terms of renumeration for same work.
+      3. Advancement gap : Captures ratio of women to men among legislators, senior officials and managers, and the ratio of women to men among technical and professional workers.
+   
+   
  2. **Educational attainment:** 
  
  The indicators taken into consideration can be found [here](https://tcdata360.worldbank.org/indicators/82bb9059?country=BRA&indicator=28160&viz=line_chart&years=2006,2018) It captures the gap between women 's and men 's current access to education through ratios of women to men in primary-, secondary- and tertiary-level education.
+ 
  3. **Health and survival**
  
      The indicators taken into consideration can be found [here](https://tcdata360.worldbank.org/indicators/e06df634?country=BRA&indicator=28163&viz=line_chart&years=2006,2018)
