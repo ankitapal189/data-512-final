@@ -149,3 +149,6 @@ I will use graphs to study the trend if gender graphs in the 4 areas. Graphs wou
 Once I have the conclusion for increase/decrease of gender gaps over the years at a world level, we perform the same analysis at the US level. 
 
 This process will answer both our research questions.
+
+## Liscence : 
+[MIT](https://github.com/ankitapal189/data-512/blob/main/data-512-a1/LICENSE.md)<BR>
