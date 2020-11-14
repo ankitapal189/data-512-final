@@ -67,12 +67,6 @@ The 4 areas mentioned are:
      The indicators taken into consideration can be found [here](https://tcdata360.worldbank.org/indicators/846d20f8?country=BRA&indicator=27960&viz=line_chart&years=2006,2018). Caputres gap between men and women at the highest level of political decision-making through the ratio of women to men in minister-level positions and the ratio of women to men in parliamentary positions.
      
 Taking into consideration the data availibilty and I have shorlisted the indicators:
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
 <table style="border: 1px solid black;">
   <tr style="border: 1px solid black;">
     <th>Indicator</th>
